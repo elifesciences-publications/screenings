@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Galardini et al., "Phenotype inference in an Escherichia coli strain panel". eLife, 2017. http://dx.doi.org/10.7554/eLife.31035
+
 screenings
 =========
 
